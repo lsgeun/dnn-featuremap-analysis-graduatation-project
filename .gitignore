@@ -1,7 +1,5 @@
 # 맥 관련 파일 제외하기
 .DS_Store
-# gitignore 제외하기
-.gitignore
 # 주피터 폴더 제외하기
 .ipynb_checkpoints
 # 파이썬 폴더 제외하기
